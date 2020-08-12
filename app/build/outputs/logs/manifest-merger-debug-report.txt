@@ -1,0 +1,350 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:2:1-38:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\081958b85be993b26123dd5b1125e07f\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.android:facebook-share:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\4a4694e699af8a16a5160826f903a362\jetified-facebook-share-5.15.3\AndroidManifest.xml:21:1-31:12
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\73dd95ad65b1039cde1ed7f17289bb71\jetified-fab-1.6.4\AndroidManifest.xml:2:1-14:12
+MERGED from [com.amitshekhar.android:jackson-android-networking:1.0.2] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\ea5cd52e82dbc107bee662bc55720f9f\jetified-jackson-android-networking-1.0.2\AndroidManifest.xml:20:1-29:12
+MERGED from [com.amitshekhar.android:android-networking:1.0.2] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\d0cccb55798b6689269b10fcefeb2a09\jetified-android-networking-1.0.2\AndroidManifest.xml:18:1-27:12
+MERGED from [com.github.chrisbanes:PhotoView:2.3.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\c318c6766edaf70f62fb727156c74a21\jetified-PhotoView-2.3.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.android:facebook-common:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\1db168b36ff57372bf1eb4888c2ad17b\jetified-facebook-common-5.15.3\AndroidManifest.xml:21:1-52:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\c2c5fa787d66aaf40578b3071f4d283f\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\28120aa98d624ce8fee0a8087788fd91\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\9b843ef8b45a09e63c481ebf2cc33a53\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\bf9fe2c920747fc8887d65d599c47d6a\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\b05b2a738edf8b82097cbcc8ce0cfd69\jetified-glide-4.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\2fb8103c62e3ee1e6e4cc337dd696441\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\ee0e2aaf3fce41f1584f18b1d5d839e3\browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\51c4c178afaeff173cfa265953a5c82e\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\0fdc580932692315c38281fd08681a57\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\c53a1cf06eec9ec8e2c1fa79d76edf7f\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\6cac2e40aaad7d17efd78ef41d825d1b\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\cfb35286f1f1bc3e2a27eb826e35e1e0\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\7c534088c709ef4f962350c99f0510e9\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\3cf213e33fb5a76421a4e937ff33f07e\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\bde687302d742df89f7d227a2e48b0d9\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\ce61250d0f7070aaab97d5c03ab2ab2e\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\385ad0333dd34005ac3b322f68c176b9\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\32e32c376d22cae962a95f2aba892822\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\86564163a688b7c5915aebbf0594d3b9\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\e968a555a0e08b03627a3441cae31e6b\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-core:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\9a25f524be8d6136b06be474dd0fec3d\jetified-facebook-core-5.15.3\AndroidManifest.xml:21:1-53:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\0173e97803654dcbfad44abe4036c6e5\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\c3d8ec33b66c793058ded980a54c4fd5\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\4d3e32c2f901863288c7ff80fcf0967a\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\ffc4098914b91b7860907277c6a73623\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\d11ce741c2c27f6eeb8e3514151430d9\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\03736cf4bc3669a69d502627b70a527e\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\28174e475fcfd6ae966ed5772f6694ac\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\2e09c7ef123dbe20d48a07a2d95cb3bd\jetified-gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\0eaeed0f116c50443b846f22ed279353\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\3e5d045fdd42de39d437ce94a2ff87c7\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\3c1a5ebf565097fe10667d6b9a2c1703\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\275bb0cd718ded38eec8234e7513c16c\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\fc12b1d7b1a887a81ff1f750b0b473c7\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\6a5aacb22b562922820652a32ac05ba6\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\3f5e37635a712470204c0315e55f1003\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\552d05fff7df0b1caee9db39c74659fe\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\8a52da53b02a83b08615debb9b2e109c\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\ed8cc0ac00b11c0234ef1e5a578c70c1\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\df4d09f70e3f533a2fede8f96085147c\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\c16c855844b564ee7204d4d6005470fb\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\1faeb385a46aa021809f57bff490a773\jetified-installreferrer-1.0\AndroidManifest.xml:2:1-13:12
+INJECTED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:4:5-35
+		INJECTED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:8:5-97
+	android:name
+		ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:9:5-74
+	android:name
+		ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:9:22-72
+uses-permission#android.permission.SET_WALLPAPER
+ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:10:22-69
+application
+ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:12:5-36:19
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\081958b85be993b26123dd5b1125e07f\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\081958b85be993b26123dd5b1125e07f\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.android:facebook-share:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\4a4694e699af8a16a5160826f903a362\jetified-facebook-share-5.15.3\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\4a4694e699af8a16a5160826f903a362\jetified-facebook-share-5.15.3\AndroidManifest.xml:28:5-29:19
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\73dd95ad65b1039cde1ed7f17289bb71\jetified-fab-1.6.4\AndroidManifest.xml:12:5-20
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\73dd95ad65b1039cde1ed7f17289bb71\jetified-fab-1.6.4\AndroidManifest.xml:12:5-20
+MERGED from [com.facebook.android:facebook-common:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\1db168b36ff57372bf1eb4888c2ad17b\jetified-facebook-common-5.15.3\AndroidManifest.xml:29:5-50:19
+MERGED from [com.facebook.android:facebook-common:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\1db168b36ff57372bf1eb4888c2ad17b\jetified-facebook-common-5.15.3\AndroidManifest.xml:29:5-50:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\28120aa98d624ce8fee0a8087788fd91\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\28120aa98d624ce8fee0a8087788fd91\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\b05b2a738edf8b82097cbcc8ce0cfd69\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\b05b2a738edf8b82097cbcc8ce0cfd69\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.facebook.android:facebook-core:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\9a25f524be8d6136b06be474dd0fec3d\jetified-facebook-core-5.15.3\AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\9a25f524be8d6136b06be474dd0fec3d\jetified-facebook-core-5.15.3\AndroidManifest.xml:28:5-51:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\03736cf4bc3669a69d502627b70a527e\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\03736cf4bc3669a69d502627b70a527e\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\2e09c7ef123dbe20d48a07a2d95cb3bd\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\2e09c7ef123dbe20d48a07a2d95cb3bd\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\3c1a5ebf565097fe10667d6b9a2c1703\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\3c1a5ebf565097fe10667d6b9a2c1703\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\1faeb385a46aa021809f57bff490a773\jetified-installreferrer-1.0\AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\1faeb385a46aa021809f57bff490a773\jetified-installreferrer-1.0\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\03736cf4bc3669a69d502627b70a527e\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:16:9-41
+	android:hardwareAccelerated
+		ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:14:9-43
+	android:roundIcon
+		ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:18:9-54
+	android:largeHeap
+		ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:17:9-33
+	android:icon
+		ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:20:9-40
+activity#com.hoadt.assginment.activity.PictureActivity
+ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:21:9-22:57
+	android:theme
+		ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:22:13-45
+	android:name
+		ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:21:19-79
+activity#com.hoadt.assginment.activity.PhotoGalleryActivity
+ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:23:9-87
+	android:name
+		ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:23:19-84
+activity#com.hoadt.assginment.activity.GalleriesActivity
+ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:24:9-25:78
+	android:name
+		ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:25:13-75
+activity#com.hoadt.assginment.activity.MainActivity
+ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:26:9-33:20
+	android:theme
+		ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:27:13-45
+	android:name
+		ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:26:19-76
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:31:27-74
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:35:9-107
+	android:value
+		ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:35:66-105
+	android:name
+		ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml:35:20-65
+uses-sdk
+INJECTED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml
+INJECTED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\081958b85be993b26123dd5b1125e07f\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\081958b85be993b26123dd5b1125e07f\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-share:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\4a4694e699af8a16a5160826f903a362\jetified-facebook-share-5.15.3\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\4a4694e699af8a16a5160826f903a362\jetified-facebook-share-5.15.3\AndroidManifest.xml:24:5-26:41
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\73dd95ad65b1039cde1ed7f17289bb71\jetified-fab-1.6.4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.clans:fab:1.6.4] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\73dd95ad65b1039cde1ed7f17289bb71\jetified-fab-1.6.4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.amitshekhar.android:jackson-android-networking:1.0.2] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\ea5cd52e82dbc107bee662bc55720f9f\jetified-jackson-android-networking-1.0.2\AndroidManifest.xml:25:5-27:41
+MERGED from [com.amitshekhar.android:jackson-android-networking:1.0.2] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\ea5cd52e82dbc107bee662bc55720f9f\jetified-jackson-android-networking-1.0.2\AndroidManifest.xml:25:5-27:41
+MERGED from [com.amitshekhar.android:android-networking:1.0.2] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\d0cccb55798b6689269b10fcefeb2a09\jetified-android-networking-1.0.2\AndroidManifest.xml:23:5-25:41
+MERGED from [com.amitshekhar.android:android-networking:1.0.2] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\d0cccb55798b6689269b10fcefeb2a09\jetified-android-networking-1.0.2\AndroidManifest.xml:23:5-25:41
+MERGED from [com.github.chrisbanes:PhotoView:2.3.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\c318c6766edaf70f62fb727156c74a21\jetified-PhotoView-2.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.chrisbanes:PhotoView:2.3.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\c318c6766edaf70f62fb727156c74a21\jetified-PhotoView-2.3.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:facebook-common:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\1db168b36ff57372bf1eb4888c2ad17b\jetified-facebook-common-5.15.3\AndroidManifest.xml:25:5-27:41
+MERGED from [com.facebook.android:facebook-common:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\1db168b36ff57372bf1eb4888c2ad17b\jetified-facebook-common-5.15.3\AndroidManifest.xml:25:5-27:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\c2c5fa787d66aaf40578b3071f4d283f\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\c2c5fa787d66aaf40578b3071f4d283f\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\28120aa98d624ce8fee0a8087788fd91\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\28120aa98d624ce8fee0a8087788fd91\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\9b843ef8b45a09e63c481ebf2cc33a53\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\9b843ef8b45a09e63c481ebf2cc33a53\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\bf9fe2c920747fc8887d65d599c47d6a\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\bf9fe2c920747fc8887d65d599c47d6a\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\b05b2a738edf8b82097cbcc8ce0cfd69\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\b05b2a738edf8b82097cbcc8ce0cfd69\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\2fb8103c62e3ee1e6e4cc337dd696441\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\2fb8103c62e3ee1e6e4cc337dd696441\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\ee0e2aaf3fce41f1584f18b1d5d839e3\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\ee0e2aaf3fce41f1584f18b1d5d839e3\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\51c4c178afaeff173cfa265953a5c82e\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\51c4c178afaeff173cfa265953a5c82e\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\0fdc580932692315c38281fd08681a57\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\0fdc580932692315c38281fd08681a57\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\c53a1cf06eec9ec8e2c1fa79d76edf7f\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\c53a1cf06eec9ec8e2c1fa79d76edf7f\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\6cac2e40aaad7d17efd78ef41d825d1b\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\6cac2e40aaad7d17efd78ef41d825d1b\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\cfb35286f1f1bc3e2a27eb826e35e1e0\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\cfb35286f1f1bc3e2a27eb826e35e1e0\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\7c534088c709ef4f962350c99f0510e9\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\7c534088c709ef4f962350c99f0510e9\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\3cf213e33fb5a76421a4e937ff33f07e\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\3cf213e33fb5a76421a4e937ff33f07e\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\bde687302d742df89f7d227a2e48b0d9\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\bde687302d742df89f7d227a2e48b0d9\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\ce61250d0f7070aaab97d5c03ab2ab2e\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\ce61250d0f7070aaab97d5c03ab2ab2e\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\385ad0333dd34005ac3b322f68c176b9\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\385ad0333dd34005ac3b322f68c176b9\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\32e32c376d22cae962a95f2aba892822\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\32e32c376d22cae962a95f2aba892822\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\86564163a688b7c5915aebbf0594d3b9\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\86564163a688b7c5915aebbf0594d3b9\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\e968a555a0e08b03627a3441cae31e6b\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\e968a555a0e08b03627a3441cae31e6b\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-core:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\9a25f524be8d6136b06be474dd0fec3d\jetified-facebook-core-5.15.3\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\9a25f524be8d6136b06be474dd0fec3d\jetified-facebook-core-5.15.3\AndroidManifest.xml:24:5-26:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\0173e97803654dcbfad44abe4036c6e5\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\0173e97803654dcbfad44abe4036c6e5\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\c3d8ec33b66c793058ded980a54c4fd5\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\c3d8ec33b66c793058ded980a54c4fd5\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\4d3e32c2f901863288c7ff80fcf0967a\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\4d3e32c2f901863288c7ff80fcf0967a\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\ffc4098914b91b7860907277c6a73623\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\ffc4098914b91b7860907277c6a73623\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\d11ce741c2c27f6eeb8e3514151430d9\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\d11ce741c2c27f6eeb8e3514151430d9\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\03736cf4bc3669a69d502627b70a527e\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\03736cf4bc3669a69d502627b70a527e\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\28174e475fcfd6ae966ed5772f6694ac\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\28174e475fcfd6ae966ed5772f6694ac\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\2e09c7ef123dbe20d48a07a2d95cb3bd\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\2e09c7ef123dbe20d48a07a2d95cb3bd\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\0eaeed0f116c50443b846f22ed279353\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\0eaeed0f116c50443b846f22ed279353\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\3e5d045fdd42de39d437ce94a2ff87c7\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\3e5d045fdd42de39d437ce94a2ff87c7\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\3c1a5ebf565097fe10667d6b9a2c1703\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\3c1a5ebf565097fe10667d6b9a2c1703\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\275bb0cd718ded38eec8234e7513c16c\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\275bb0cd718ded38eec8234e7513c16c\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\fc12b1d7b1a887a81ff1f750b0b473c7\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\fc12b1d7b1a887a81ff1f750b0b473c7\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\6a5aacb22b562922820652a32ac05ba6\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\6a5aacb22b562922820652a32ac05ba6\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\3f5e37635a712470204c0315e55f1003\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\3f5e37635a712470204c0315e55f1003\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\552d05fff7df0b1caee9db39c74659fe\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\552d05fff7df0b1caee9db39c74659fe\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\8a52da53b02a83b08615debb9b2e109c\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\8a52da53b02a83b08615debb9b2e109c\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\ed8cc0ac00b11c0234ef1e5a578c70c1\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\ed8cc0ac00b11c0234ef1e5a578c70c1\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\df4d09f70e3f533a2fede8f96085147c\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\df4d09f70e3f533a2fede8f96085147c\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\c16c855844b564ee7204d4d6005470fb\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\c16c855844b564ee7204d4d6005470fb\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\1faeb385a46aa021809f57bff490a773\jetified-installreferrer-1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\1faeb385a46aa021809f57bff490a773\jetified-installreferrer-1.0\AndroidManifest.xml:5:5-7:41
+INJECTED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml
+INJECTED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Assginment-master\Assginment-master\app\src\main\AndroidManifest.xml
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\1db168b36ff57372bf1eb4888c2ad17b\jetified-facebook-common-5.15.3\AndroidManifest.xml:30:9-33:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\1db168b36ff57372bf1eb4888c2ad17b\jetified-facebook-common-5.15.3\AndroidManifest.xml:32:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\1db168b36ff57372bf1eb4888c2ad17b\jetified-facebook-common-5.15.3\AndroidManifest.xml:33:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\1db168b36ff57372bf1eb4888c2ad17b\jetified-facebook-common-5.15.3\AndroidManifest.xml:31:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\1db168b36ff57372bf1eb4888c2ad17b\jetified-facebook-common-5.15.3\AndroidManifest.xml:34:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\1db168b36ff57372bf1eb4888c2ad17b\jetified-facebook-common-5.15.3\AndroidManifest.xml:34:19-68
+activity#com.facebook.CustomTabActivity
+ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\1db168b36ff57372bf1eb4888c2ad17b\jetified-facebook-common-5.15.3\AndroidManifest.xml:35:9-49:20
+	tools:node
+		ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\1db168b36ff57372bf1eb4888c2ad17b\jetified-facebook-common-5.15.3\AndroidManifest.xml:38:13-31
+	android:exported
+		ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\1db168b36ff57372bf1eb4888c2ad17b\jetified-facebook-common-5.15.3\AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\1db168b36ff57372bf1eb4888c2ad17b\jetified-facebook-common-5.15.3\AndroidManifest.xml:36:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.${applicationId}+data:scheme:fbconnect
+ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\1db168b36ff57372bf1eb4888c2ad17b\jetified-facebook-common-5.15.3\AndroidManifest.xml:39:13-48:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.com.luongthuan.assginment+data:scheme:fbconnect
+ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\1db168b36ff57372bf1eb4888c2ad17b\jetified-facebook-common-5.15.3\AndroidManifest.xml:39:13-48:29
+action#android.intent.action.VIEW
+ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\1db168b36ff57372bf1eb4888c2ad17b\jetified-facebook-common-5.15.3\AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\1db168b36ff57372bf1eb4888c2ad17b\jetified-facebook-common-5.15.3\AndroidManifest.xml:40:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\1db168b36ff57372bf1eb4888c2ad17b\jetified-facebook-common-5.15.3\AndroidManifest.xml:42:17-76
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\1db168b36ff57372bf1eb4888c2ad17b\jetified-facebook-common-5.15.3\AndroidManifest.xml:42:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\1db168b36ff57372bf1eb4888c2ad17b\jetified-facebook-common-5.15.3\AndroidManifest.xml:43:17-78
+	android:name
+		ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\1db168b36ff57372bf1eb4888c2ad17b\jetified-facebook-common-5.15.3\AndroidManifest.xml:43:27-75
+data
+ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\1db168b36ff57372bf1eb4888c2ad17b\jetified-facebook-common-5.15.3\AndroidManifest.xml:45:17-47:50
+	android:host
+		ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\1db168b36ff57372bf1eb4888c2ad17b\jetified-facebook-common-5.15.3\AndroidManifest.xml:46:21-56
+	android:scheme
+		ADDED from [com.facebook.android:facebook-common:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\1db168b36ff57372bf1eb4888c2ad17b\jetified-facebook-common-5.15.3\AndroidManifest.xml:47:21-47
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\9a25f524be8d6136b06be474dd0fec3d\jetified-facebook-core-5.15.3\AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\9a25f524be8d6136b06be474dd0fec3d\jetified-facebook-core-5.15.3\AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\9a25f524be8d6136b06be474dd0fec3d\jetified-facebook-core-5.15.3\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\9a25f524be8d6136b06be474dd0fec3d\jetified-facebook-core-5.15.3\AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\9a25f524be8d6136b06be474dd0fec3d\jetified-facebook-core-5.15.3\AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\9a25f524be8d6136b06be474dd0fec3d\jetified-facebook-core-5.15.3\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\9a25f524be8d6136b06be474dd0fec3d\jetified-facebook-core-5.15.3\AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\9a25f524be8d6136b06be474dd0fec3d\jetified-facebook-core-5.15.3\AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\9a25f524be8d6136b06be474dd0fec3d\jetified-facebook-core-5.15.3\AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:5.15.3] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\9a25f524be8d6136b06be474dd0fec3d\jetified-facebook-core-5.15.3\AndroidManifest.xml:48:25-92
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.android.installreferrer:installreferrer:1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\1faeb385a46aa021809f57bff490a773\jetified-installreferrer-1.0\AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.android.installreferrer:installreferrer:1.0] C:\Users\phong.DESKTOP-OPFNSDJ\.gradle\caches\transforms-2\files-2.1\1faeb385a46aa021809f57bff490a773\jetified-installreferrer-1.0\AndroidManifest.xml:9:22-107
